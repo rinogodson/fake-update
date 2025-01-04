@@ -1,0 +1,14 @@
+.cursor{
+    width: 20px;
+    height: 20px;
+    background-color: aliceblue;
+    position: fixed;
+    border-radius: 50%;
+    z-index: 1000;
+}
+
+@media (max-width: 768px){
+    .cursor{
+        display: none;
+    }
+}

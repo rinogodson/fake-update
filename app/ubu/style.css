@@ -1,0 +1,27 @@
+.ubuntu{
+    background-color: #2C0220;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.ubuntu-logo{
+    width: 300px;
+}
+
+.dotcont{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    place-items: center;
+}
+
+.ubudot{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+}
