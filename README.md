@@ -9,7 +9,7 @@ Fake Updater is fun and harmless Next.js project designed to simulate software s
 ---
 ## 🖥️ Demo
 
-Check out the live demo [here](#)
+Check out the live demo [here](https://fake-update-pi.vercel.app/)
 
 ---
 
