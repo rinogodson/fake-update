@@ -43,5 +43,9 @@ This project is for entertainment purposes only. Do not use it maliciously or in
 ## 🌟 Contributing
 
 Contributions are welcome! Feel free to fork this repository, submit issues, or create pull requests to enhance the project.
- 
+
+ ### Credits:
+Used Github CoPilot for code suggestions.
+Used Figma for designing the UI.
+
 Made with ❤️
